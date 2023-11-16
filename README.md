@@ -17,4 +17,4 @@ However, that does present us the flexibility of swapping different functions to
 
 Oh! Here's an idea: We could have two parametric functions, and we could sum them. Essentially the spiral is exactly that... Well no, actually, it's the product of the trig and a linear scale. But anyway, we could write another 2nd level function that takes two parametric functions and sums the x outputs and the y outputs. And then feed that into the iterator function to graph it.
 
-To run this app, open the graph.html file in the browser. The html file links to the JS file, and will run it in the browser window. You can modify the functionality by modifying the graph.js file.
+To run this app, open the graph.html file in the browser. Save both the html file and the js into the same folder. The html file links to the JS file, and will run it in the browser window. You can modify the functionality by modifying the graph.js file.
